@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bloodmank
 - 👀 I’m interested in python
 - 🌱 I’m currently learning pygame
-- 📫 How to reach me ...no
+- 📫 How to reach me ...actually, no
 
 <!---
 bloodmank/bloodmank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
